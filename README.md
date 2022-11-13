@@ -5,21 +5,21 @@
 ### Installation
 
 ```bash
-$ yarn add @eweah/lib 
+$ yarn add @mongodb-model/lib 
 
 ```
  or 
 
 ```bash
 
-$ npm i @eweah/lib
+$ npm i @mongodb-model/lib
 
 ```
 
 ### Simple Usage Example
 
 ```bash
- const {readdirRecursive} = require('@eweah/lib');
+ const {readdirRecursive} = require('@mongodb-model/lib');
  readdirRecursive('your_directory_path')
 ```
 
